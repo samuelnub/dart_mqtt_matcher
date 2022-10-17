@@ -26,7 +26,7 @@ add this package and use it
 you type literally one line
 
 ```dart
-const bool result = MqttMatcher.isTopicMatch('test/ooga/+/booga/#', 'test/ooga/aeugh/booga/unga')
+const bool result = MqttMatcher.isTopicMatch('test/ooga/+/booga/#', 'test/ooga/aeugh/booga/unga');
 ```
 
 ## Where to find additional information
